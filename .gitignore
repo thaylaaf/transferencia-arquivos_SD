@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+results/raw_results.csv
+results/summary.csv
+results/summary_excel.csv
+data/*.bin
+data/p2p_runtime/
