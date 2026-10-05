@@ -117,7 +117,3 @@ Após a execução do script `analyze_results.py`, o arquivo `results/summary.cs
 * **`max_s`**: Tempo Máximo de conclusão da transferência (em segundos).
 
 ---
-
-## 📜 Licença e Uso Acadêmico
-
-Desenvolvido para a atividade de Avaliação de Desempenho de Redes e Sistemas Distribuídos.
